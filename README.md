@@ -5,7 +5,7 @@ A command line based Rock-Paper-Scissors-Lizard-Spock for Locally Developer Exer
 ## How to install:
 
 ### Step 1
-Clone this repo by running `git clone https://github.com/GeoffSelby/Rock-Paper-Scissors-Lizard-Spock`.
+Clone this repo by running `git clone https://github.com/GeoffSelby/Rock-Paper-Scissors-Lizard-Spock.git`.
 
 ### Step 2
 Install dependencies with `composer install`. 
